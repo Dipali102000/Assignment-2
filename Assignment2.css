@@ -1,0 +1,29 @@
+.STYLE_100{width: 100%; 
+}
+
+.tbl1{
+
+    border:1; height:600px; width:1300px; text-align:center;
+}
+.tbl2{
+
+    border:1; height:100%; width:100%; 
+}
+.tblheder{
+
+    height:80; background-color:orange; text-align:center;
+}
+.CENTER{
+
+    text-align: center;
+}
+.tbl3{
+
+    border:1PX solid black; height:100%; width:100%;
+}
+.tbl4{
+    border:1; height:95%; width:100%;
+}
+.tbl5{
+    height:35px; background-color:orange; text-align:center;
+}
